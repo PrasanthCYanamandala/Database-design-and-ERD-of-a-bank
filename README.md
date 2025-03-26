@@ -95,17 +95,6 @@ The project defines **entities, attributes, business rules, relationships, and a
 
 ---
 
-## 👨‍💻 Team Members  
-- **Rahul Jain (RXJ230006)**  
-- **Vivek Kopperla (VVK220003)**  
-- **Louis Lui (ZXL200016)**  
-- **Prasanth Chowdary Y (PXY230011)**  
-
-**Instructor:** Dr. Gasan Elkhodari  
-**Course:** Database Foundations - University of Texas at Dallas  
-
----
-
 ## 📌 How to Use This Repository  
 - Review the **ER diagram** to understand relationships.  
 - Refer to **business rules** for database constraints.  
